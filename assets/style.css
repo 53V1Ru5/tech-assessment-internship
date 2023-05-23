@@ -36,6 +36,21 @@ body {
     background-position: left, left, right, right;
 }
 
+.container1 {
+    width: 100%;
+    height: 981px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: #06026f;;
+
+    background-image: url(images/Layer5.png), url(images/Layer3.png);
+    background-repeat: no-repeat, no-repeat;
+    background-position: left, right;
+}
+
 .group7 {
 
     position: absolute;
